@@ -1,5 +1,5 @@
 {
-  "name": "custom grunt",
+  "name": "customGrunt",
   "version": "1.0.0",
   "description": "custom grunt for paul",
   "main": "Gruntfile.js",
